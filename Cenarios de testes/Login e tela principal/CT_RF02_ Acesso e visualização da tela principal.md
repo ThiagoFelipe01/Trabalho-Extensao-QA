@@ -19,7 +19,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente a interface da tela principal.     |
-| [Video]([https://drive.google.com/file/d/1cZZxr_bb_fxc77R8PowaIfbuVtePOjGM/view?usp=drive_link]())  |
+| [Video](https://drive.google.com/file/d/1cZZxr_bb_fxc77R8PowaIfbuVtePOjGM/view?usp=drive_link)  |
 
 ---
 
@@ -43,7 +43,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Todos os widgets principais devem ser visíveis e funcionais.     |
-| [Video]([https://drive.google.com/file/d/1EpROo6M3BH7gXETEwYepy3_lPF3ufoGk/view?usp=drive_link]())  |
+| [Video](https://drive.google.com/file/d/1EpROo6M3BH7gXETEwYepy3_lPF3ufoGk/view?usp=drive_link)  |
 
 
 ---

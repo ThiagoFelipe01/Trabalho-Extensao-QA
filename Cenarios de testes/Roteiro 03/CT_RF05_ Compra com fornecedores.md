@@ -24,7 +24,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O fornecedor deve ser cadastrado corretamente                   |
-| [Video]([https://drive.google.com/file/d/1kjKknIxfAiNtGGzrjuQEk_yRpXKOCNO5/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1kjKknIxfAiNtGGzrjuQEk_yRpXKOCNO5/view?usp=drive_link) |
 
 ---
 
@@ -49,7 +49,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema não deve permitir finalizar o cadastro.               |
-| [Video]([https://drive.google.com/file/d/1iflkEWIrDOcGBSkgVD1_Lw0rv8zlUJVo/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1iflkEWIrDOcGBSkgVD1_Lw0rv8zlUJVo/view?usp=drive_link) |
 
 ---
 
@@ -78,7 +78,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O pedido deve conter itens cadastrados.                         |
-| [Video]([https://drive.google.com/file/d/1SgS7CVoBRlPbbijuAlkDKm1DVskkzEqC/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1SgS7CVoBRlPbbijuAlkDKm1DVskkzEqC/view?usp=drive_link) |
 
 ---
 
@@ -103,7 +103,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A compra não deve ser criada sem fornecedor.                    |
-| [Video]([https://drive.google.com/file/d/1J5PdbqPcYes1KW99Y-G_RNrhQX_aNlcP/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1J5PdbqPcYes1KW99Y-G_RNrhQX_aNlcP/view?usp=drive_link) |
 
 ---
 
@@ -142,7 +142,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista de parcelas deve exibir: pago,  parcial e não pago.     |
-| [Video]([https://drive.google.com/file/d/1_Dyf6z8aId3g5iUdvx8cbwZh1dS9i5pV/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1_Dyf6z8aId3g5iUdvx8cbwZh1dS9i5pV/view?usp=drive_link) |
 
 ---
 
@@ -168,7 +168,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve registrar o fechamento e permitir saída da tela. |
-| [Video]([https://drive.google.com/file/d/1doOtkJxZkbsGHxJ-1abUYmOUQYh50X61/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1doOtkJxZkbsGHxJ-1abUYmOUQYh50X61/view?usp=drive_link) |
 
 ---
 
@@ -193,7 +193,7 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O fornecedor deve aparecer com os dados alterados.              |
-| [Video]([https://drive.google.com/file/d/1sae6nA4xN3TR_7Wi1A2KGghAI88U5FwQ/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1sae6nA4xN3TR_7Wi1A2KGghAI88U5FwQ/view?usp=drive_link) |
 
 ---
 
@@ -217,4 +217,4 @@ Link pasta Roteiro 03: https://drive.google.com/drive/folders/1X0T2gVTjc9P0yCXca
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | o fornecedor deve ser deletado com sucesso                      |
-| [Video]([https://drive.google.com/file/d/1XLgEZ8FB0l0M6PX9NfaPCmqUPAdi8pOW/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1XLgEZ8FB0l0M6PX9NfaPCmqUPAdi8pOW/view?usp=drive_link) |

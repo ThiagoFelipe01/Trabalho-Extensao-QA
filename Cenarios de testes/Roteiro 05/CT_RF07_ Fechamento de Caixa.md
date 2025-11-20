@@ -29,7 +29,7 @@ Link pasta Roteiro 05: https://drive.google.com/drive/folders/18WiGBKG-oHI2wiuIb
 | :-------------------------------------------------------------- |
 |A lista deve conter todas as vendas do dia filtradas corretamente. |
 |Os tipos de documentos devem ser exibidos corretamente na listagem.|
-| [Video]([https://drive.google.com/file/d/1pIQSyWSkl-17Gpo6U0KU9DbjbywAxY4V/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1pIQSyWSkl-17Gpo6U0KU9DbjbywAxY4V/view?usp=drive_link) |
 
 ---
 
@@ -56,7 +56,7 @@ Link pasta Roteiro 05: https://drive.google.com/drive/folders/18WiGBKG-oHI2wiuIb
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A retirada deve aparecer imediatamente no movimento do caixa.   |
-| [Video]([https://drive.google.com/file/d/1BxkSirMX49V42YqFQ9SqKN6k8bykhmt8/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1BxkSirMX49V42YqFQ9SqKN6k8bykhmt8/view?usp=drive_link) |
 
 ---
 
@@ -86,4 +86,4 @@ Link pasta Roteiro 05: https://drive.google.com/drive/folders/18WiGBKG-oHI2wiuIb
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Relatório e fechamento do caixa devem apresentar totais, retirada e tipos de documentos de forma consistente. |
-| [Video]([https://drive.google.com/file/d/1bGEIbUqr9anU5hObJZD0sXL4lwmZZoSx/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1bGEIbUqr9anU5hObJZD0sXL4lwmZZoSx/view?usp=drive_link) |

@@ -47,7 +47,7 @@ Link da pasta cadastro Funcinários: https://drive.google.com/drive/folders/11u5
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema NÃO deve salvar o funcionário. |
-| [Video]([https://drive.google.com/file/d/1jxecLQFDOi82sqHhplq_9BHdzqlhur_v/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1jxecLQFDOi82sqHhplq_9BHdzqlhur_v/view?usp=drive_link) |
 
 ---
 
@@ -72,7 +72,7 @@ Link da pasta cadastro Funcinários: https://drive.google.com/drive/folders/11u5
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionario deve aparecer com os dados alterados.             |
-| [Video]([https://drive.google.com/file/d/11jkkg9O2qwMD2uKcxUlK-kIQdbjhgQQ5/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/11jkkg9O2qwMD2uKcxUlK-kIQdbjhgQQ5/view?usp=drive_link) |
 
 ---
 
@@ -96,4 +96,4 @@ Link da pasta cadastro Funcinários: https://drive.google.com/drive/folders/11u5
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionario deve ser deletado com sucesso                     |
-| [Video]([https://drive.google.com/file/d/16aSwoM-ilhMWro8DNCAiQsgNYQl6BP9U/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/16aSwoM-ilhMWro8DNCAiQsgNYQl6BP9U/view?usp=drive_link) |

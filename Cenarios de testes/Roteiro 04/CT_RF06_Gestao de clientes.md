@@ -23,7 +23,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O cliente deve aparecer corretamente na lista.                  |
-| [Video]([https://drive.google.com/file/d/1Ro0UNYa4PVTYnZ6WFNf4mY9wMsph235H/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1Ro0UNYa4PVTYnZ6WFNf4mY9wMsph235H/view?usp=drive_link) |
 
 ---
 
@@ -47,7 +47,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema NÃO deve salvar o cliente. |
-| [Video]([https://drive.google.com/file/d/1DjwfrkB1brsQRqnwS_cvOsF0Lo5NavmJ/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1DjwfrkB1brsQRqnwS_cvOsF0Lo5NavmJ/view?usp=drive_link) |
 
 ---
 
@@ -73,7 +73,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O limite de crédito deve aparecer na aba Dados Financeiros após salvar.  |
-| [Video]([https://drive.google.com/file/d/16yHRdAYLMb3xLgXtda8BtL4Cx1wD2dfx/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/16yHRdAYLMb3xLgXtda8BtL4Cx1wD2dfx/view?usp=drive_link) |
 
 ---
 
@@ -97,7 +97,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Deve existir mensagem clara orientando o usuário.               |
-| [Video]([https://drive.google.com/file/d/1xUxynOaDpFCniSsMWBQICZ2VR71PTPx8/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1xUxynOaDpFCniSsMWBQICZ2VR71PTPx8/view?usp=drive_link) |
 
 ---
 
@@ -122,7 +122,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Dependente deve aparecer corretamente vinculado ao cliente.     |
-| [Video]([https://drive.google.com/file/d/1X4bTvLtmhCl9QnGhVGd8WUQYAkOGWRDn/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1X4bTvLtmhCl9QnGhVGd8WUQYAkOGWRDn/view?usp=drive_link) |
 
 ---
 
@@ -148,7 +148,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A venda deve ser registrada corretamente.                       |
-| [Video]([https://drive.google.com/file/d/1cXbpJPIg27pbua0iMOHJWdaFxY60opBn/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1cXbpJPIg27pbua0iMOHJWdaFxY60opBn/view?usp=drive_link) |
 
 ---
 
@@ -172,7 +172,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A venda deve ser registrada corretamente                        |
-| [Video]([https://drive.google.com/file/d/14t2DvZOdtyE_aff3_4qv-O0ig_6FS7ak/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/14t2DvZOdtyE_aff3_4qv-O0ig_6FS7ak/view?usp=drive_link) |
 
 ---
 
@@ -197,7 +197,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |  
 | O valor atualizado deve ser exibido corretamente na aba financeira.  |                                               
-| [Video]([https://drive.google.com/file/d/1hHsY-CdSgNGnkkfQ2CzfZXmZ8dK4hrnn/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1hHsY-CdSgNGnkkfQ2CzfZXmZ8dK4hrnn/view?usp=drive_link) |
 
 ---
 
@@ -222,7 +222,7 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O cliente deve aparecer com os dados alterados.                 |
-| [Video]([https://drive.google.com/file/d/1xJUoyVCiTKEPWl8C9JVJFg-KtT-2bcAv/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1xJUoyVCiTKEPWl8C9JVJFg-KtT-2bcAv/view?usp=drive_link) |
 
 ---
 
@@ -246,4 +246,4 @@ Link da pasta Roteiro 04: https://drive.google.com/drive/folders/1zN9IOScKdN2Um4
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O cliente deve ser deletado com sucesso                         |
-| [Video]([https://drive.google.com/file/d/1HwZc4_3Zqd7Wve24U08H5exbVBp5vhMy/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1HwZc4_3Zqd7Wve24U08H5exbVBp5vhMy/view?usp=drive_link) |

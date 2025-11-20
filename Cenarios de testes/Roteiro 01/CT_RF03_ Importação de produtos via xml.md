@@ -34,7 +34,7 @@ Link pasta Roteiro 01: https://drive.google.com/drive/folders/1wYvFLuQzzIpqJltKP
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os Itens da compra via XML deverão aparecer na tela             |
-| [Video]([https://drive.google.com/file/d/1aScQfCCg5eT9okYJSxXrELBdlD3NW_2l/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/1aScQfCCg5eT9okYJSxXrELBdlD3NW_2l/view?usp=sharing) |
 
 ---
 
@@ -60,7 +60,7 @@ Link pasta Roteiro 01: https://drive.google.com/drive/folders/1wYvFLuQzzIpqJltKP
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
-| [Video]([https://drive.google.com/file/d/1CZZPOShJGRlRlSZXi_wjMv7syb4e6LW-/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/1CZZPOShJGRlRlSZXi_wjMv7syb4e6LW-/view?usp=sharing) |
 
 ---
 
@@ -83,7 +83,7 @@ Link pasta Roteiro 01: https://drive.google.com/drive/folders/1wYvFLuQzzIpqJltKP
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema não deve avançar para a listagem de produtos.         |
-| [Video]([https://drive.google.com/file/d/1xozMKgCaVMUs5cCvWfkwVyHz8DjhSGU5/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/1xozMKgCaVMUs5cCvWfkwVyHz8DjhSGU5/view?usp=sharing) |
 
 ---
 
@@ -116,7 +116,7 @@ Link pasta Roteiro 01: https://drive.google.com/drive/folders/1wYvFLuQzzIpqJltKP
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear o salvamento.                           |
-| [Video]([https://drive.google.com/file/d/1Eeak_4Iwa99DF1KKz5dBUuEyPv3a1NGG/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1Eeak_4Iwa99DF1KKz5dBUuEyPv3a1NGG/view?usp=drive_link) |
 
 ---
 
@@ -140,7 +140,7 @@ Link pasta Roteiro 01: https://drive.google.com/drive/folders/1wYvFLuQzzIpqJltKP
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear o salvamento.                           |
-| [Video]([https://drive.google.com/file/d/1C6mQ7IW3xRCwyX7s41GPXiiOIBcspyw3/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/1C6mQ7IW3xRCwyX7s41GPXiiOIBcspyw3/view?usp=sharing) |
 
 ---
 
@@ -166,4 +166,4 @@ Link pasta Roteiro 01: https://drive.google.com/drive/folders/1wYvFLuQzzIpqJltKP
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema exibe a lista de produtos                             |
-| [Video]([https://drive.google.com/file/d/1ybIiPPOTaBssnooTbyVIKxx2sdaWCbuI/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1ybIiPPOTaBssnooTbyVIKxx2sdaWCbuI/view?usp=drive_link) |

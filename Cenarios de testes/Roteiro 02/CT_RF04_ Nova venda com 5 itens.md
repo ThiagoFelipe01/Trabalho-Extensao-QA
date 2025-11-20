@@ -33,7 +33,7 @@ Link pasta Roteiro 02: https://drive.google.com/drive/folders/1C3aPMs0WxRVbBG1L9
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A venda é confirmada com 5 itens no total                       |
-| [Video]([https://drive.google.com/file/d/1hecx5nXODj2ypD30HkhsJkrPxgR4F9hh/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1hecx5nXODj2ypD30HkhsJkrPxgR4F9hh/view?usp=drive_link) |
 
 ---
 
@@ -69,7 +69,7 @@ Link pasta Roteiro 02: https://drive.google.com/drive/folders/1C3aPMs0WxRVbBG1L9
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A venda deve ser finalizada com os dois tipos de pagamento cadastrados |
-| [Video]([https://drive.google.com/file/d/17TdWNG-tzY4WRf67xu0iZRKDwbK4nIUu/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/17TdWNG-tzY4WRf67xu0iZRKDwbK4nIUu/view?usp=sharing) |
 
 ---
 
@@ -96,7 +96,7 @@ Link pasta Roteiro 02: https://drive.google.com/drive/folders/1C3aPMs0WxRVbBG1L9
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o avanço e exibir mensagem de validação destacando o campo do cliente, do Funcionário |
-| [Video]([https://drive.google.com/file/d/1vj6yyI9FYRHHGg7nKbeRxn2N_p8ibIq5/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/1vj6yyI9FYRHHGg7nKbeRxn2N_p8ibIq5/view?usp=sharing) |
 
 ---
 
@@ -127,7 +127,7 @@ Link pasta Roteiro 02: https://drive.google.com/drive/folders/1C3aPMs0WxRVbBG1L9
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir mensagem alertando o valor do tipo de documento difere com o total do pedido |
-| [Video]([https://drive.google.com/file/d/1CCU_usCZjQQIEu0zpco0vMg3oQGvfgF_/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1CCU_usCZjQQIEu0zpco0vMg3oQGvfgF_/view?usp=drive_link) |
 
 ---
 
@@ -158,4 +158,4 @@ Link pasta Roteiro 02: https://drive.google.com/drive/folders/1C3aPMs0WxRVbBG1L9
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve validar os valores e exigir que somem 100% do valor da venda. |
-| [Video]([https://drive.google.com/file/d/1ZGl0eMJfKF1AKMXbtXj3f5kQqaQKoHe9/view?usp=sharing]()) |
+| [Video](https://drive.google.com/file/d/1ZGl0eMJfKF1AKMXbtXj3f5kQqaQKoHe9/view?usp=sharing) |

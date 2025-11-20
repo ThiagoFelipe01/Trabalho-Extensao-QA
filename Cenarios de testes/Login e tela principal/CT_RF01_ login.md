@@ -23,7 +23,7 @@ Link pasta Login e tela principal: https://drive.google.com/drive/folders/1CaSHC
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O redirecionamento para a tela principal deve ocorrer corretamente. |
-| [Video]([https://drive.google.com/file/d/1FxPNN-mu3TMPK14-gHkH7_Z1sifKnJAl/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1FxPNN-mu3TMPK14-gHkH7_Z1sifKnJAl/view?usp=drive_link) |
 
 ---
 
@@ -48,7 +48,7 @@ Link pasta Login e tela principal: https://drive.google.com/drive/folders/1CaSHC
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"senha inválida\" deve ser exibida.    |
-| [Video]([https://drive.google.com/file/d/1LOPaBKUEnHeQC8QCExkWV1DGxaKSnqGv/view?usp=drive_link]()) | 
+| [Video](https://drive.google.com/file/d/1LOPaBKUEnHeQC8QCExkWV1DGxaKSnqGv/view?usp=drive_link) | 
 
 ---
 
@@ -72,4 +72,4 @@ Link pasta Login e tela principal: https://drive.google.com/drive/folders/1CaSHC
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
-| [Video]([https://drive.google.com/file/d/1djjcMxQ-gTE6gFQ3hF76oYK0MgJQ-b-Q/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1djjcMxQ-gTE6gFQ3hF76oYK0MgJQ-b-Q/view?usp=drive_link) |

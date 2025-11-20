@@ -23,7 +23,7 @@ Link da pasta cadastro transportadora: https://drive.google.com/drive/folders/1G
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A transportadora deve aparecer corretamente na lista.           |
-| [Video]([https://drive.google.com/file/d/1PSyRPQWG3Bj95WDRTfO5sUYYBKMZV1pm/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1PSyRPQWG3Bj95WDRTfO5sUYYBKMZV1pm/view?usp=drive_link) |
 
 ---
 
@@ -47,7 +47,7 @@ Link da pasta cadastro transportadora: https://drive.google.com/drive/folders/1G
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema NÃO deve salvar a transportadora. |
-| [Video]([https://drive.google.com/file/d/1gGIaysPS5oPms9tejBFIAW3Vs8T46M3-/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1gGIaysPS5oPms9tejBFIAW3Vs8T46M3-/view?usp=drive_link) |
 
 ---
 
@@ -72,7 +72,7 @@ Link da pasta cadastro transportadora: https://drive.google.com/drive/folders/1G
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A transportadora deve aparecer com os dados alterados.             |
-| [Video]([https://drive.google.com/file/d/1vhnRfQ6jqJ_XmB2k9HdpPxWI29TWfAeO/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1vhnRfQ6jqJ_XmB2k9HdpPxWI29TWfAeO/view?usp=drive_link) |
 
 ---
 
@@ -96,4 +96,4 @@ Link da pasta cadastro transportadora: https://drive.google.com/drive/folders/1G
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A transportadora deve ser deletado com sucesso                  |
-| [Video]([https://drive.google.com/file/d/1B9cWvie4BjKxbcY-oV6ZpczeOMivFH8j/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1B9cWvie4BjKxbcY-oV6ZpczeOMivFH8j/view?usp=drive_link) |
