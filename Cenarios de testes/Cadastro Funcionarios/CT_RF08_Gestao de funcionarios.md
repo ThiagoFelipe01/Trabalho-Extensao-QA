@@ -23,7 +23,7 @@ Link da pasta cadastro Funcinários: https://drive.google.com/drive/folders/11u5
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionario deve aparecer corretamente na lista.                  |
-| [Video]([https://drive.google.com/file/d/1bRz6GA21f-tfoEQINp6_Hdo6EFdTXcGS/view?usp=drive_link]()) |
+| [Video](https://drive.google.com/file/d/1bRz6GA21f-tfoEQINp6_Hdo6EFdTXcGS/view?usp=drive_link) |
 
 ---
 
